@@ -21,3 +21,6 @@
 - he data is read from the CSV file into a Pandas DataFrame.
 
 - Users can select different options for the X-axis and Y-axis through dropdowns, and the scatter plot dynamically updates based on their selections.
+
+
+![](https://github.com/NiranjanKumarYadav36/happiness-app/blob/main/hp.jpg)
